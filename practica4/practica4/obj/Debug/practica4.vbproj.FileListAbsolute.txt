@@ -1,0 +1,12 @@
+C:\Carlos Williamson 24694\practica4\practica4\bin\Debug\practica4.exe.config
+C:\Carlos Williamson 24694\practica4\practica4\bin\Debug\practica4.exe
+C:\Carlos Williamson 24694\practica4\practica4\bin\Debug\practica4.pdb
+C:\Carlos Williamson 24694\practica4\practica4\bin\Debug\practica4.xml
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.vbprojAssemblyReference.cache
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.Form1.resources
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.Resources.resources
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.vbproj.GenerateResource.cache
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.vbproj.CoreCompileInputs.cache
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.exe
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.xml
+C:\Carlos Williamson 24694\practica4\practica4\obj\Debug\practica4.pdb
